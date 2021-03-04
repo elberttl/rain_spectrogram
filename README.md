@@ -1,5 +1,5 @@
 # Rain Spectrogram
 
-Compraing rain sound and pink noise
+Comparing rain sound with pink noise
 
 See the .ipynb file
